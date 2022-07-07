@@ -1,0 +1,67 @@
+{
+    "stock" : [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+    ],
+    "products" : [
+        {
+            "id": 1,
+            "title": "Fire Flower",
+            "price": 250.0,
+            "image": "https://mario.wiki.gallery/images/thumb/d/d8/Fire_Flower_Artwork_-_Super_Mario_3D_World.png/800px-Fire_Flower_Artwork_-_Super_Mario_3D_World.png"
+        },
+        {
+            "id": 2,
+            "title": "Cat Mario",
+            "price": 110.0,
+            "image": "https://mario.wiki.gallery/images/thumb/6/6b/Cat_Mario_Artwork_-_Super_Mario_3D_World.png/800px-Cat_Mario_Artwork_-_Super_Mario_3D_World.png"
+        },
+        {
+            "id": 3,
+            "title": "Cat Banzai bill",
+            "price": 600.0,
+            "image": "https://mario.wiki.gallery/images/thumb/2/2e/Cat_Banzai_Bill_-_Super_Mario_3D_World.png/800px-Cat_Banzai_Bill_-_Super_Mario_3D_World.png"
+        },
+        {
+            "id": 4,
+            "title": "Super Leaf",
+            "price": 580.0,
+            "image": "https://mario.wiki.gallery/images/thumb/c/cd/Super_Leaf_Artwork_-_Super_Mario_3D_World.png/800px-Super_Leaf_Artwork_-_Super_Mario_3D_World.png"
+        },
+        {
+            "id": 5,
+            "title": "Boomerang Flower",
+            "price": 560.0,
+            "image": "https://mario.wiki.gallery/images/thumb/9/9c/SM3DW_Boomerang_Flower_Artwork.png/800px-SM3DW_Boomerang_Flower_Artwork.png"
+        },
+        {
+            "id": 6,
+            "title": "Boomerang Mario",
+            "price": 357.0,
+            "image": "https://mario.wiki.gallery/images/thumb/b/b8/SM3DW_Boomerang_Mario_Artwork.png/800px-SM3DW_Boomerang_Mario_Artwork.png"
+        }
+        
+    ]
+}
